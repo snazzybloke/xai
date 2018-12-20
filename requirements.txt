@@ -5,5 +5,7 @@ scikit-learn==0.20.1
 pandas==0.23.4
 numpy==1.15.4
 matplotlib==3.0.2
+lime==0.1.1.32
 eli5==0.8.1
-
+skater==1.1.2
+graphviz==0.5.2
